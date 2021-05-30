@@ -1,4 +1,4 @@
 #include"Teacher.h"
 
 
-#teacher1.cpp
+#teacher2.cpp
